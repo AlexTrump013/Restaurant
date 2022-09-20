@@ -128,3 +128,4 @@ d967d5,192.168.16.2,GET,http://restaurant.local/reservations/1,1663659128,,200
 961123,192.168.16.2,GET,http://restaurant.local/admin/,1663659493,feeafb,404
 feeafb,192.168.16.2,GET,http://restaurant.local/admin/,1663659493,,404
 24ffef,192.168.16.2,GET,http://restaurant.local/,1663659500,,200
+adbe2b,192.168.16.2,GET,http://restaurant.local/,1663675205,,200
